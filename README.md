@@ -1,41 +1,46 @@
-# Agentic AI Lab
+AI Agents for Leaders Workshop (Ai4 2025)
+Welcome to the AI Agents for Leaders workshop, hosted by General Assembly at Ai4 2025. This repository contains all materials, exercises, and code examples used during the workshop.
 
-A GitHub Action that demos an AI agent:
+About This Workshop
+This hands-on session explores how AI agents can transform leadership and decision-making workflows. Participants will:
 
-1. **Perceive** new issues  
-2. **Reason** (classify via LLM)  
-3. **Act** (apply a label)  
-4. **Feedback** (comment rationale)
+Craft effective prompts for AI agents
+Analyze and compare good and bad agentic practices
+Build and integrate AI-assisted features in real-world leadership scenarios
+Create personalized AI agent integration plans for their teams
+Whether you're automating tasks, analyzing data, or designing new strategies, this workshop will help you level up with AI agents.
 
-## Setup
+Repository Structure
+FolderDescription
+modules/Participant and instructor guides for each session module
+docs/Supplemental materials, handouts, and reference guides
 
-1. Fork this repo.  
-2. In your fork, go to **Settings → Secrets → Actions** and add your `OPENAI_API_KEY`.  
-3. Open an issue in your fork to watch the Action run.
+Getting Started
+Option 1: Open in GitHub Codespaces (Recommended)
+Click the "Code" button at the top of this repo.
+Select "Open with Codespaces" > "New codespace".
+Wait a moment while your Codespace launches.
+Start exploring the repo and follow your instructor's guidance.
 
-## Development
+Option 2: Clone Locally (Advanced Users)
+If you prefer to work locally:
 
-```bash
-git clone git@github.com:<you>/agentic-ai-lab.git
-cd agentic-ai-lab
-python3 -m venv .venv && source .venv/bin/activate
-pip install -r requirements.txt
-Edit agent.py to customize labels, prompts, or fallback logic.
+git clone https://github.com/GA-CustomLearning/ai-agents-for-leaders.git
+cd ai-agents-for-leaders
+Then install dependencies as needed: pip install -r requirements.txt
 
-Testing
-Push any change → watch Actions → Agentic AI Labeler
+Tools Used
+This workshop covers popular AI agent development tools including:
 
-Open a new GitHub issue → see it auto-labeled + commented.
+OpenAI
+PyGithub
+Gemini CLI
 
-markdown
-Copy
-Edit
+License
+Copyright © 2025 General Assembly. All rights reserved.
 
----
+This repository and its contents are the intellectual property of General Assembly and are provided exclusively for educational use by registered participants of the Ai4 “AI Agents for Leaders” workshop.
 
-##  Ready to Run
+⚠️ Do not distribute, copy, or reuse any portion of this repository without express written permission.
 
-1. **Fork** & **clone**.  
-2. **Add** `OPENAI_API_KEY` secret.  
-3. **Push** this structure to `main`.  
-4. **Open** a test issue—and voilà, your AI agent labels and comments!
+For licensing inquiries, please contact: legal@generalasssemb.ly
