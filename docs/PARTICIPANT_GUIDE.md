@@ -1,4 +1,4 @@
-# Participant Guide: Designing & Deploying Autonomous AI Agents
+# AI Agents for Leaders Workshop
 
 **Workshop Date & Location:** Ai4 Conference, Las Vegas — 2-hour session
 
@@ -57,7 +57,7 @@
 ## Reflection & Next Steps
 
 *   Capture one key insight in `insights/your-name.md`.
-*   Join the Slack channel `#ai4-leaders` to share results.
+
 
 ## Resources
 

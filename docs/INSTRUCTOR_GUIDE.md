@@ -1,4 +1,4 @@
-# Instructor Guide: Designing & Deploying Autonomous AI Agents
+# AI Agents for Leaders Workshop
 
 **Workshop Duration:** 2 hours
 **Audience:** C-suite executives and senior leaders with baseline AI literacy
@@ -73,7 +73,7 @@
 *   **Goal:** Solidify next steps and community support.
 *   **Facilitation:**
     *   Ask each leader to state one commitment.
-    *   Share Slack channel and resources.
+    
 *   **Closing:** Thank participants and invite survey feedback.
 
 ## Troubleshooting & Tips
@@ -84,5 +84,4 @@
 
 ## Post-Workshop Follow-Up
 
-*   Review pilot plans via GitHub pull requests.
-*   Schedule 30-min check-in calls with participants.
+*   Facilitate a networking period for participants to share projects with others in their region.
