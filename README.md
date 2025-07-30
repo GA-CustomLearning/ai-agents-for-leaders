@@ -1,6 +1,6 @@
-# Ai4 Agentic Workshop
+# AI Agents for Leaders Workshop
 
-Welcome to the **Ai4 Agentic Workshop**—a 2‑hour, hands‑on session designed to help senior leaders and C‑suite executives prototype and pilot autonomous AI agents for strategic impact.
+Welcome to the **AI Agents for Leaders Workshop**—a 2‑hour, hands‑on session designed to help senior leaders and C‑suite executives prototype and pilot autonomous AI agents for strategic impact.
 
 ## Workshop Overview
 
