@@ -1,6 +1,6 @@
-# Low-Code AI Prototype Tool Setup
+# Optional Local Setup for Workshop Materials
 
-This guide provides general steps to set up a Python-based low-code AI prototype tool. **Please replace these instructions with the specific setup steps for your actual tool.**
+This guide is for participants who prefer to set up the workshop materials locally instead of using GitHub Codespaces. **GitHub Codespaces is the recommended and easiest way to get started, as it comes pre-configured.**
 
 ## Prerequisites
 
@@ -8,18 +8,18 @@ This guide provides general steps to set up a Python-based low-code AI prototype
 *   **Git:** For cloning the repository.
 *   **Command Line Interface (CLI):** Access to your system's terminal or command prompt.
 
-## Step-by-Step Setup
+## Step-by-Step Local Setup
 
-1.  **Clone the Tool's Repository (if applicable):**
-    If your tool is hosted on GitHub or a similar platform, clone it:
+1.  **Clone the Workshop Repository:**
+    If you haven't already, clone this workshop repository to your local machine:
     ```bash
-    git clone https://github.com/your-org/your-ai-tool.git
-    cd your-ai-tool
+    git clone https://github.com/your-org/ai4-agentic-workshop.git
+    cd ai4-agentic-workshop
     ```
-    *(Replace `https://github.com/your-org/your-ai-tool.git` with the actual repository URL and `your-ai-tool` with the correct directory name.)*
+    *(Ensure you replace `https://github.com/your-org/ai4-agentic-workshop.git` with the actual repository URL if it's different.)*
 
 2.  **Create a Virtual Environment (Recommended):**
-    It's best practice to use a virtual environment to manage dependencies.
+    It's best practice to use a virtual environment to manage project dependencies.
     ```bash
     python -m venv venv
     ```
@@ -38,32 +38,17 @@ This guide provides general steps to set up a Python-based low-code AI prototype
         .\venv\Scripts\Activate.ps1
         ```
 
-4.  **Install Dependencies:**
-    Navigate to the tool's root directory (where `requirements.txt` or `pyproject.toml` is located) and install required packages:
+4.  **Install Workshop Dependencies:**
+    With your virtual environment activated, install the necessary Python packages listed in `requirements.txt`:
     ```bash
     pip install -r requirements.txt
-    # OR if using poetry/pipenv:
-    # poetry install
-    # pipenv install
     ```
-    *(Replace `requirements.txt` with the correct dependency file if different.)*
 
-5.  **Configure the Tool (if necessary):**
-    Your tool might require specific configuration (e.g., API keys, database connections). Refer to the tool's documentation for details.
-    *(Example: Create a `.env` file or modify a `config.py` file.)*
+## What's Next?
 
-6.  **Run the Tool / Verify Installation:**
-    Execute the command to start or test your tool. This might vary greatly depending on the tool.
-    ```bash
-    python app.py
-    # OR
-    # your_tool_command --version
-    # your_tool_command start
-    ```
-    *(Replace `python app.py` with the actual command to run your tool.)*
+Once setup is complete, you can navigate through the workshop materials. The main entry point is the `Participant Guide` (`docs/PARTICIPANT_GUIDE.md`).
 
 ## Troubleshooting
 
-*   **`command not found`:** Ensure Python and Git are in your system's PATH.
-*   **Dependency errors:** Make sure your virtual environment is activated and all dependencies are installed.
-*   **Tool-specific issues:** Consult the tool's official documentation or support channels.
+*   **`python` or `git` command not found:** Ensure Python and Git are correctly installed and added to your system's PATH.
+*   **Dependency installation errors:** Make sure your virtual environment is activated before running `pip install -r requirements.txt`.
