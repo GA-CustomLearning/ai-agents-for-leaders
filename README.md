@@ -44,7 +44,28 @@ ai4-agentic-workshop/
 
 ## How to Use
 
-*   **Codespaces Ready:** Launch this repo in GitHub Codespaces to get instant dev environment with all files.
+### Using GitHub Codespaces (Recommended)
+
+GitHub Codespaces provides an instant, cloud-based development environment. This is the easiest way to get started without any local setup.
+
+1.  **Launch Codespace:** Click the green `<> Code` button on this repository page, then select the `Codespaces` tab, and click `Create codespace on main`.
+2.  **Wait for Setup:** Your codespace will provision and open in a web-based VS Code environment. This may take a minute or two.
+3.  **Explore:** Once loaded, you'll have access to all workshop files and a pre-configured terminal. Follow the instructions in the `Participant Guide`.
+
+### Local Setup (Advanced Users)
+
+If you prefer to work locally, ensure you have Git and Python (3.8+) installed.
+
+1.  **Clone the Repository:**
+    ```bash
+    git clone https://github.com/your-org/ai4-agentic-workshop.git
+    cd ai4-agentic-workshop
+    ```
+2.  **Install Dependencies:**
+    ```bash
+    pip install -r requirements.txt
+    ```
+
 *   **Participant Guide:** Follow `participant-guide.md` for step‑by‑step instructions.
 *   **Instructor Guide:** Use `instructor-guide.md` for facilitation notes and timing cues.
 
