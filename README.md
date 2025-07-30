@@ -35,11 +35,11 @@ ai4-agentic-workshop/
 
 | Time            | Module                                    | Activity                                      |
 | --------------- | ----------------------------------------- | --------------------------------------------- |
-| **0–30 min**    | Module 01: Welcome, Community & Discovery | Introductions, community agreements, AI pulse |
-| **30–45 min**   | Module 02: Framing AI for Exec Impact     | Agentic AI overview & lens selection          |
-| **45–90 min**   | Module 03: Lab: Apply AI to Your Priority | Hands‑on prompt crafting & metric mapping     |
+| **0–30 min**    | [Module 01: Welcome, Community & Discovery](modules/01-welcome-community/README.md) | Introductions, community agreements, AI pulse |
+| **30–45 min**   | [Module 02: Framing AI for Exec Impact](modules/02-framing-impact/README.md)     | Agentic AI overview & lens selection          |
+| **45–90 min**   | [Module 03: Lab: Apply AI to Your Priority](modules/03-lab-apply-priority/README.md) | Hands‑on prompt crafting & metric mapping     |
 | **90–95 min**   | Quick Share‑Back                          | Each team shares one top recommendation       |
-| **95–110 min**  | Module 04: Refine & Plan Your Pilot       | Governance guardrails & pilot plan drafting   |
+| **95–110 min**  | [Module 04: Refine & Plan Your Pilot](modules/04-refine-pilot/README.md)       | Governance guardrails & pilot plan drafting   |
 | **110–120 min** | Wrap‑Up & Commitments                     | Final commitments, resources, next steps      |
 
 ## How to Use
@@ -66,8 +66,8 @@ If you prefer to work locally, ensure you have Git and Python (3.8+) installed.
     pip install -r requirements.txt
     ```
 
-*   **Participant Guide:** Follow `participant-guide.md` for step‑by‑step instructions.
-*   **Instructor Guide:** Use `instructor-guide.md` for facilitation notes and timing cues.
+*   **Participant Guide:** Follow `docs/PARTICIPANT_GUIDE.md` for step‑by‑step instructions.
+*   **Instructor Guide:** Use `docs/INSTRUCTOR_GUIDE.md` for facilitation notes and timing cues.
 
 ---
 
