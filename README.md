@@ -66,8 +66,8 @@ If you prefer to work locally, ensure you have Git and Python (3.8+) installed.
     pip install -r requirements.txt
     ```
 
-*   **Participant Guide:** Follow `docs/PARTICIPANT_GUIDE.md` for step‑by‑step instructions.
-*   **Instructor Guide:** Use `docs/INSTRUCTOR_GUIDE.md` for facilitation notes and timing cues.
+*   **Participant Guide:** Follow [docs/PARTICIPANT_GUIDE.md](docs/PARTICIPANT_GUIDE.md) for step‑by‑step instructions.
+*   **Instructor Guide:** Use [docs/INSTRUCTOR_GUIDE.md](docs/INSTRUCTOR_GUIDE.md) for facilitation notes and timing cues.
 
 ---
 
