@@ -12,9 +12,9 @@
 
 ## Materials & Setup
 
-* Personal laptops with Git, browser, and AI tool access.
-* Workshop repository cloned: `git clone https://github.com/your-org/ai4-agentic-workshop.git`.
-* Individual metric mapping template printed or open in `templates/metric-mapping.xlsx`.
+* Personal laptops with browser and AI tool access.
+* Workshop materials accessed via browser or local clone (see Participant Guide for options).
+* Individual metric mapping template open in `Resources/templates/metric-mapping.xlsx`.
 * Projector for live demos (no whiteboarding).
 
 ## Workshop Flow & Facilitation Notes
@@ -45,9 +45,9 @@
 * **Goal:** Hands-on crafting of AI prompts with direct relevance.
 * **Instructions:**
 
-  1. Open `prompts/lab1.md`.
+  1. Open `Resources/prompts/lab1.md`.
   2. Individually draft prompts in ChatGPT (or chosen AI tool) to generate **three actionable recommendations** for your selected priority.
-  3. Map each recommendation to a specific metric in `templates/metric-mapping.xlsx`.
+  3. Map each recommendation to a specific metric in `Resources/templates/metric-mapping.xlsx`.
 * **Facilitation:**
 
   * Circulate to answer questions and demo iterative prompting live on the projector.
@@ -64,7 +64,7 @@
 * **Goal:** Add governance guardrails and outline a mini-pilot.
 * **Instructions:**
 
-  1. Open `templates/governance-checklist.md`.
+  1. Open `Resources/templates/governance-checklist.md`.
   2. Add compliance or human-in-the-loop notes to your prompt designs.
   3. Draft a 1-page pilot outline: scope, timeline (next 2 weeks), owner, and success metric.
 * **Facilitation:**
