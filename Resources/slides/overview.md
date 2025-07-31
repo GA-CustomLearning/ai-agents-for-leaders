@@ -1,1 +1,0 @@
-This is a placeholder for the workshop's overview slides. In a real scenario, this would be a PDF presentation file.

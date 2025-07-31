@@ -27,7 +27,7 @@ If you're curious about how developers manage code and want to experiment with t
 2.  **Clone the Repository:** Open your computer's terminal or command prompt and run:
 
     ```bash
-    git clone https://github.com/GA-CustomLearning/ai-agents-for-leaders/.git
+    git clone https://github.com/GA-CustomLearning/ai-agents-for-leaders/
     cd ai4-agentic-workshop
     ```
 3.  **Explore Locally:** You can now open the `ai4-agentic-workshop` folder in your preferred text editor or file explorer.

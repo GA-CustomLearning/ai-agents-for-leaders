@@ -42,6 +42,13 @@
   * Invite each participant (or 10 volunteers via mic) to state “Why I’m here” and one prior AI activity they’ve tried.
   * Record top themes in a shared slide or digital board (live scribing by facilitator).
 
+    **Talking Points & Facilitator Tips:**
+    | Topic              | Key Message                                             | Resource                     |
+    |--------------------|---------------------------------------------------------|------------------------------|
+    | Workshop Purpose   | Reinforce ROI focus—quick wins in 2 hours               | `Resources/slides/overview.md` (p.2)  |
+    | Participant Goals  | Highlight Elena’s logistics use case                    | Objectives Worksheet         |
+    | Prior Experience   | Connect forecasting to agentic AI                       | Live scribe slide            |
+
 ### 30–45 min: Framing Agentic AI for Impact
 
 * **Goal:** Align on agentic AI basics and executive lenses.
@@ -50,6 +57,13 @@
 
   * Define agentic AI as systems that perceive, decide, and act autonomously.
   * Present three executive priorities: grow revenue, optimize costs, mitigate risk.
+
+    **Talking Points & Facilitator Tips:**
+    | Topic               | Key Message                                             | Resource                        |
+    |---------------------|---------------------------------------------------------|---------------------------------|
+    | Agentic AI Model    | Link autonomy to cost savings in logistics              | `Resources/slides/overview.md` (p.4)     |
+    | Cost Lens           | Examples: reduced staffing, faster exception resolution | Lens Cheat Sheet                |
+    | Live Polling        | Show distribution emphasizing cost votes                | Poll dashboard                  |
 * **Activity:** Participants select their priority in a poll tool (e.g., Slido).
 
 ### 45–90 min: Individual Lab: Apply AI to Your Priority
@@ -61,6 +75,13 @@
   2. Individually draft prompts in ChatGPT (or chosen AI tool) to generate **three actionable recommendations** for your selected priority.
   3. Map each recommendation to a specific metric in `Resources/templates/metric-mapping.xlsx`.
   * **Instructor Note:** Encourage participants to refer to `Resources/prompts/example-prompts.md` for inspiration.
+
+    **Talking Points & Facilitator Tips:**
+    | Topic                    | Key Message                                                 | Resource                            |
+    |--------------------------|-------------------------------------------------------------|-------------------------------------|
+    | Contextual Prompts       | Use specific logistics scenarios                             | Prompt Template                     |
+    | Iterative Refinement     | Show live example with Elena’s scenario                      | Live demo                           |
+    | Cost Metric Mapping      | Capture baseline vs. target cost                              | Metric Mapping Excel                |
 * **Facilitation:**
 
   * Circulate to answer questions and demo iterative prompting live on the projector.
@@ -71,6 +92,12 @@
 * **Process:**
 
   * Ask 3–5 volunteers to briefly share one recommendation and its expected impact metric (30 s each).
+
+    **Talking Points & Facilitator Tips:**
+    | Topic             | Key Message                                     | Resource                  |
+    |-------------------|-------------------------------------------------|---------------------------|
+    | Spotlight Value   | Emphasize Elena’s cost-saving metric            | Share Template            |
+    | Peer Inspiration  | Encourage adaptation across domains             | Live scribe slide         |
 
 ### 95–110 min: Refine & Pilot Planning
 
@@ -87,6 +114,13 @@
 
   * Show a sample pilot plan on screen; encourage participants to mirror the format.
 
+    **Talking Points & Facilitator Tips:**
+    | Topic                  | Key Message                                                    | Resource                   |
+    |------------------------|----------------------------------------------------------------|----------------------------|
+    | Compliance Guardrails  | Balance autonomy with oversight                                 | Governance Checklist       |
+    | Realistic Scope        | Pilot on manageable exception set                               | Plan Template              |
+    | Example Walkthrough    | Show Elena’s completed plan                                     | Sample Plan                |
+
 ### 110–120 min: Commitments & Next Steps
 
 * **Goal:** Ensure action post-workshop and ongoing community support.
@@ -96,6 +130,13 @@
   * Share resources: GitHub repo, Slack channel #ai4-leaders.
   * **Instructor Note:** Briefly introduce the optional GitHub challenges from the Participant Guide to encourage deeper engagement with the platform.
   * Thank participants and invite feedback via survey link.
+
+    **Talking Points & Facilitator Tips:**
+    | Topic                   | Key Message                                                     | Resource                  |
+    |-------------------------|-----------------------------------------------------------------|---------------------------|
+    | Writing Commitments     | Encourage specific, time-bound actions                          | Commitment Slide           |
+    | Follow-Up Process       | Leverage email template for stakeholder communication           | Follow-Up Email           |
+    | Ongoing Support         | Invite use of office hours for refinement                       | Office Hours Information  |
 
 ## Troubleshooting & Tips
 
