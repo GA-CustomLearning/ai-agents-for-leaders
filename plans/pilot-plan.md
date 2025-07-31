@@ -15,10 +15,8 @@
 | Review        | YYYY-MM-DD | YYYY-MM-DD |
 
 ## 4. Roles & Responsibilities
-- **Sponsor:**
-- **Project Lead:**
-- **Technical Owner:**
-- **Stakeholders:**
+- **Owner:**
+- **Key Stakeholders:**
 
 ## 5. Resources Required
 - Tools, data access, team members.

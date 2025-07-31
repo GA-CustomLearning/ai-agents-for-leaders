@@ -1,87 +1,92 @@
-# AI Agents for Leaders Workshop
+# Instructor Guide: Designing & Deploying Autonomous AI Agents
 
 **Workshop Duration:** 2 hours
-**Audience:** C-suite executives and senior leaders with baseline AI literacy
+**Audience:** 100–150 C-suite executives and senior leaders with baseline AI literacy
 **Repository:** [https://github.com/your-org/ai4-agentic-workshop](https://github.com/your-org/ai4-agentic-workshop)
 
 ## Learning Objectives
 
-1.  Articulate the value of agentic AI across revenue, cost, and risk.
-2.  Prototype AI agent prompts and minimal code for real organizational challenges.
-3.  Develop a pilot plan with governance and metrics for integration.
+1. Articulate the strategic value of agentic AI across revenue, cost, and risk.
+2. Prototype AI-driven recommendations for individual organizational challenges.
+3. Develop a concise pilot plan with governance guardrails and success metrics.
 
 ## Materials & Setup
 
-*   Laptops with Git and browser access.
-*   AI tool credentials and repo access.
-*   Projector and screen for demos.
-*   Printed agenda.
-*   Metric templates (`templates/metric-mapping-template.xlsx`).
-*   Governance checklist (`modules/04-refine-pilot/governance-checklist.md`).
-*   Pilot plan template (`plans/pilot-plan.md`).
-*   Governance overview (`templates/🛡️ AI Agent Governance One-Pager.pdf`) — one-pager slide for Module 04.
-*   Miro board or shared virtual whiteboard (see `modules/01-welcome-community/README.md` for instructions).
+* Personal laptops with Git, browser, and AI tool access.
+* Workshop repository cloned: `git clone https://github.com/your-org/ai4-agentic-workshop.git`.
+* Individual metric mapping template printed or open in `templates/metric-mapping.xlsx`.
+* Projector for live demos (no whiteboarding).
 
-## Workshop Timeline & Facilitation Notes
+## Workshop Flow & Facilitation Notes
 
-### 0–30 min: Welcome, Community & Discovery
+*(All activities are individual to accommodate 100–150 participants; no team exercises or whiteboarding)*
 
-*   **Goal:** Build rapport and set expectations.
-*   **Instructor Actions:**
-    *   Welcome participants and outline session flow.
-    *   Invite each leader to share their goals (limit 1 min each).
-    *   Conduct a quick poll on prior AI activities.
-    *   Tip: Use a shared Miro board or equivalent.
-*   See `modules/01-welcome-community/README.md` for detailed facilitation notes.
+### 0–30 min: Welcome & Community Discovery
 
-### 30–45 min: Framing AI for Exec Impact
+* **Goal:** Build community, surface individual expectations, and capture prior AI experience.
+* **Instructor Actions:**
 
-*   **Goal:** Align on AI fundamentals and priority lenses.
-*   **Slides:** [To be provided by instructor]
-*   **Talking Points:**
-    *   Define agentic AI as perceives → decides → acts.
-    *   Introduce three lenses: grow revenue, reduce costs, mitigate risk.
-*   **Activity:** Ask leaders to choose their lens.
-*   See `modules/02-framing-impact/README.md` for detailed facilitation notes.
+  * Brief opening: objectives and agenda.
+  * Invite each participant (or 10 volunteers via mic) to state “Why I’m here” and one prior AI activity they’ve tried.
+  * Record top themes in a shared slide or digital board (live scribing by facilitator).
 
-### 45–90 min: Lab: Apply AI to Your Priority
+### 30–45 min: Framing Agentic AI for Impact
 
-*   **Goal:** Hands-on crafting of AI prompts.
-*   **Instructions:**
-    *   Direct teams to `modules/03-lab-apply-priority/prompts.md`.
-    *   Support teams and encourage metric mapping.
-*   **Tip:** Encourage use of real challenges.
-*   See `modules/03-lab-apply-priority/README.md` for detailed facilitation notes.
+* **Goal:** Align on agentic AI basics and executive lenses.
+* **Slides:** `slides/overview.pdf`.
+* **Talking Points:**
 
-### 90–95 min: Quick Share-Back
+  * Define agentic AI as systems that perceive, decide, and act autonomously fileciteturn3file0.
+  * Present three executive priorities: grow revenue, optimize costs, mitigate risk.
+* **Activity:** Participants select their priority in a poll tool (e.g., Slido).
 
-*   **Goal:** Surface standout insights.
-*   **Facilitation:** Invite one team per table to share.
+### 45–90 min: Individual Lab: Apply AI to Your Priority
 
-### 95–110 min: Refine & Plan Your Pilot
+* **Goal:** Hands-on crafting of AI prompts with direct relevance.
+* **Instructions:**
 
-*   **Goal:** Add governance guardrails and draft pilot plan.
-*   **Instructions:**
-    *   Guide teams to `modules/04-refine-pilot/governance-checklist.md`.
-    *   Emphasize human-in-the-loop and compliance.
-    *   **Introduce the Quick Checklist Usage exercise** to self-audit and convert governance gaps into action items.
-*   **Tip:** Provide examples from past leaders.
-*   See `modules/04-refine-pilot/README.md` for detailed facilitation notes.
+  1. Open `prompts/lab1.md`.
+  2. Individually draft prompts in ChatGPT (or chosen AI tool) to generate **three actionable recommendations** for your selected priority.
+  3. Map each recommendation to a specific metric in `templates/metric-mapping.xlsx`.
+* **Facilitation:**
 
-### 110–120 min: Wrap-Up & Commitments
+  * Circulate to answer questions and demo iterative prompting live on the projector.
 
-*   **Goal:** Solidify next steps and community support.
-*   **Facilitation:**
-    *   Ask each leader to state one commitment.
-    
-*   **Closing:** Thank participants and invite survey feedback.
+### 90–95 min: Rapid Insight Share
+
+* **Goal:** Highlight standout individual insights.
+* **Process:**
+
+  * Ask 3–5 volunteers to briefly share one recommendation and its expected impact metric (30 s each).
+
+### 95–110 min: Refine & Pilot Planning
+
+* **Goal:** Add governance guardrails and outline a mini-pilot.
+* **Instructions:**
+
+  1. Open `templates/governance-checklist.md`.
+  2. Add compliance or human-in-the-loop notes to your prompt designs.
+  3. Draft a 1-page pilot outline: scope, timeline (next 2 weeks), owner, and success metric.
+* **Facilitation:**
+
+  * Show a sample pilot plan on screen; encourage participants to mirror the format.
+
+### 110–120 min: Commitments & Next Steps
+
+* **Goal:** Ensure action post-workshop and ongoing community support.
+* **Process:**
+
+  * In poll tool, have participants submit one commitment (e.g. “I will test my AI prompt with my finance team by next Wednesday”).
+  * Share resources: GitHub repo, Slack channel #ai4-leaders.
+  * Thank participants and invite feedback via survey link.
 
 ## Troubleshooting & Tips
 
-*   If teams get stuck on prompts, demonstrate iterative prompting live.
-*   For governance questions, reference `templates/governance-overview.md`.
-*   Timekeeper should ensure labs stay on schedule.
+* If individuals struggle, demonstrate improving one prompt live.
+* Use scribe to capture discussion themes—no whiteboarding.
+* Maintain pace: reserve time checks at 30, 45, 90, and 110 minutes.
 
 ## Post-Workshop Follow-Up
 
-*   Facilitate a networking period for participants to share projects with others in their region.
+* Collect pilot outlines via GitHub issues.
+* Schedule optional office hours for prompt feedback and governance Q\&A.

@@ -13,8 +13,6 @@
     > "As a strategy leader in [Industry], identify 3 AI-driven initiatives to **increase revenue** by at least 10% within 6 months. For each, include the required resources and a simple implementation roadmap."
 
 3.  **Record Outputs**: Paste AI responses into the Excel template (`templates/metric-mapping-template.xlsx`).
-4.  **Peer Review (10 min)**
-    *   Swap prompts & outputs with another team.
-    *   Provide feedback: clarity, metrics, feasibility.
+
 5.  **Prepare Share-Back (5 min)**
     *   Choose the top recommendation & metric for presentation.

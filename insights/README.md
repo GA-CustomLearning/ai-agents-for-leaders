@@ -1,9 +1,11 @@
-Use this folder to capture individual reflections.
+# Insights
+
+Use this folder to capture your individual reflections.
 
 Example file: `insights/jane-doe.md`
 
 ### Reflection Template
 
-1.  **Key Insight:**
-2.  **Application in My Org:**
-3.  **Questions/Risks:**
+1.  **One Key Takeaway:**
+2.  **How I'll Apply This in My Organization:**
+3.  **Remaining Questions or Potential Challenges:**

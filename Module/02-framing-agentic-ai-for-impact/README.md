@@ -1,0 +1,8 @@
+# Module 2: Framing Agentic AI for Impact (30–45 min)
+
+## Narrative
+Rapidly align on what agentic AI is and how it maps to executive priorities.
+
+## Jobs to Be Done
+* Select your top priority: revenue, cost, or risk via poll.
+* Internalize the “perceive → decide → act” model.

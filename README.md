@@ -4,67 +4,55 @@ Welcome to the **AI Agents for Leaders Workshop**—a 2‑hour, hands‑on sessi
 
 ## Workshop Overview
 
-This workshop is organized into four modular segments, each with clear objectives, materials, and step‑by‑step instructions. You’ll work in small teams, apply AI tools directly to your own organizational challenges, and leave with a concrete pilot plan.
+This workshop is organized into six modular segments, each with clear objectives, materials, and step‑by‑step instructions. You’ll apply AI tools directly to your own organizational challenges, and leave with a concrete pilot plan.
 
 **Repository Structure**
 
 ```
 ai4-agentic-workshop/
 ├─ README.md                      ← This overview file
-├─ participant-guide.md           ← Participant Guide
-├─ instructor-guide.md            ← Instructor Guide
-├─ modules/
-│   ├─ 01-welcome-community/
-│   │   └─ README.md
-│   ├─ 02-framing-impact/
-│   │   ├─ slides/overview.pdf
-│   │   └─ README.md
-│   ├─ 03-lab-apply-priority/
-│   │   ├─ prompts.md
-│   │   ├─ templates/metric-mapping-template.xlsx
-│   │   └─ README.md
-│   └─ 04-refine-pilot/
-│       ├─ templates/governance-checklist.md
-│       ├─ templates/🛡️ AI Agent Governance One-Pager.pdf
-│       ├─ plans/pilot-plan.md
-│       └─ README.md
-└─ plans/                         ← Optional global plans folder
+├─ docs/
+│   ├─ PARTICIPANT_GUIDE.md       ← Participant Guide
+│   └─ INSTRUCTOR_GUIDE.md        ← Instructor Guide
+├─ Module/
+│   ├─ 01-welcome-community-discovery/
+│   ├─ 02-framing-agentic-ai-for-impact/
+│   ├─ 03-individual-lab-apply-ai-to-your-priority/
+│   ├─ 04-rapid-insight-share/
+│   ├─ 05-refine-pilot-planning/
+│   └─ 06-commitments-next-steps/
+├─ prompts/
+│   └─ lab1.md
+├─ templates/
+│   ├─ governance-checklist.md
+│   └─ metric-mapping-template.xlsx
+└─ tools/
+    └─ setup.md
 ```
 
 ## Schedule
 
 | Time            | Module                                    | Activity                                      |
 | --------------- | ----------------------------------------- | --------------------------------------------- |
-| **0–30 min**    | [Module 01: Welcome, Community & Discovery](modules/01-welcome-community/README.md) | Introductions, community agreements, AI pulse |
-| **30–45 min**   | [Module 02: Framing AI for Exec Impact](modules/02-framing-impact/README.md)     | Agentic AI overview & lens selection          |
-| **45–90 min**   | [Module 03: Lab: Apply AI to Your Priority](modules/03-lab-apply-priority/README.md) | Hands‑on prompt crafting & metric mapping     |
-| **90–95 min**   | Quick Share‑Back                          | Each team shares one top recommendation       |
-| **95–110 min**  | [Module 04: Refine & Plan Your Pilot](modules/04-refine-pilot/README.md)       | Governance guardrails & pilot plan drafting   |
-| **110–120 min** | Wrap‑Up & Commitments                     | Final commitments, resources, next steps      |
+| **0–30 min**    | [Module 01: Welcome & Community Discovery](Module/01-welcome-community-discovery/README.md) | Introductions and goal setting |
+| **30–45 min**   | [Module 02: Framing Agentic AI for Impact](Module/02-framing-agentic-ai-for-impact/README.md)     | Agentic AI overview & priority selection          |
+| **45–90 min**   | [Module 03: Individual Lab: Apply AI to Your Priority](Module/03-individual-lab-apply-ai-to-your-priority/README.md) | Hands‑on prompt crafting & metric mapping     |
+| **90–95 min**   | [Module 04: Rapid Insight Share](Module/04-rapid-insight-share/README.md)               | Highlight standout individual insights       |
+| **95–110 min**  | [Module 05: Refine & Pilot Planning](Module/05-refine-pilot-planning/README.md)       | Governance guardrails & pilot plan drafting   |
+| **110–120 min** | [Module 06: Commitments & Next Steps](Module/06-commitments-next-steps/README.md)                     | Final commitments, resources, next steps      |
 
 ## How to Use
 
-### Using GitHub Codespaces (Recommended)
+### Using the Browser-Based Setup (Recommended)
 
-GitHub Codespaces provides an instant, cloud-based development environment. This is the easiest way to get started without any local setup.
+This is the easiest way to get started without any local setup.
 
-1.  **Launch Codespace:** Click the green `<> Code` button on this repository page, then select the `Codespaces` tab, and click `Create codespace on main`.
-2.  **Wait for Setup:** Your codespace will provision and open in a web-based VS Code environment. This may take a minute or two.
-3.  **Explore:** Once loaded, you'll have access to all workshop files and a pre-configured terminal. Follow the instructions in the `Participant Guide`.
+1.  **Launch:** Click the link provided by the instructor.
+2.  **Explore:** You'll have access to all workshop files in a web-based environment. Follow the instructions in the `Participant Guide`.
 
-### Local Setup (Advanced Users)
+### Local Setup
 
-If you prefer to work locally, ensure you have Git and Python (3.8+) installed.
-
-1.  **Clone the Repository:**
-    ```bash
-    git clone https://github.com/your-org/ai4-agentic-workshop.git
-    cd ai4-agentic-workshop
-    ```
-2.  **Install Dependencies:**
-    ```bash
-    pip install -r requirements.txt
-    ```
+If you prefer to work locally, you can follow the instructions in `tools/setup.md`.
 
 *   **Participant Guide:** Follow [docs/PARTICIPANT_GUIDE.md](docs/PARTICIPANT_GUIDE.md) for step‑by‑step instructions.
 *   **Instructor Guide:** Use [docs/INSTRUCTOR_GUIDE.md](docs/INSTRUCTOR_GUIDE.md) for facilitation notes and timing cues.

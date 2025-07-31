@@ -1,0 +1,8 @@
+# Module 5: Refine & Pilot Planning (95–110 min)
+
+## Narrative
+Strengthen your prompts with governance guardrails and translate insights into a two-week pilot plan.
+
+## Jobs to Be Done
+* Enhance prompt designs with compliance and human-in-the-loop notes.
+* Draft a one-page pilot outline: scope, timeline, owner, success metric.

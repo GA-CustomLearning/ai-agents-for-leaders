@@ -1,0 +1,9 @@
+# Module 3: Individual Lab – Apply AI to Your Priority (45–90 min)
+
+## Narrative
+Dive into hands-on experimentation. Using ChatGPT (or your chosen tool), draft prompts that generate concrete, strategic recommendations for your own challenge.
+
+## Jobs to Be Done
+* Draft three AI prompts targeting your selected priority.
+* Generate three actionable recommendations from the AI.
+* Map each recommendation to a clear metric in the provided template.
