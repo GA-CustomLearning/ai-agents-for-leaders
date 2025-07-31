@@ -2,7 +2,19 @@
 
 **Workshop Duration:** 2 hours
 **Audience:** 100–150 C-suite executives and senior leaders with baseline AI literacy
-**Repository:** [https://github.com/your-org/ai4-agentic-workshop](https://github.com/your-org/ai4-agentic-workshop)
+**Repository:** [https://github.com/GA-CustomLearning/ai-agents-for-leaders/](https://github.com/GA-CustomLearning/ai-agents-for-leaders/)
+
+## C-Suite Persona: Elena Martinez
+
+**Role:** Chief Operations Officer at a global retail firm
+
+**Experience:** 20+ years in operations, early adopter of AI for supply-chain optimization
+
+**Goals:** Drive cost efficiencies, ensure ethical AI governance, and demonstrate quick ROI
+
+**Tech Comfort:** Familiar with executive dashboards and basic AI tools, prefers clear frameworks
+
+**Motivations:** Today, Elena wants to prototype an AI agent to streamline exception handling in logistics, map impact to cost savings, and outline a pilot.
 
 ## Learning Objectives
 
@@ -14,7 +26,7 @@
 
 * Personal laptops with browser and AI tool access.
 * Workshop materials accessed via browser or local clone (see Participant Guide for options).
-* Individual metric mapping template open in `Resources/templates/metric-mapping.xlsx`.
+* Individual metric mapping template open in `Resources/templates/metric-mapping-template.xlsx`.
 * Projector for live demos (no whiteboarding).
 
 ## Workshop Flow & Facilitation Notes
@@ -33,10 +45,10 @@
 ### 30–45 min: Framing Agentic AI for Impact
 
 * **Goal:** Align on agentic AI basics and executive lenses.
-* **Slides:** `slides/overview.pdf`.
+* **Slides:** `Resources/slides/overview.md` (or `slides/overview.pdf` if you have a PDF version).
 * **Talking Points:**
 
-  * Define agentic AI as systems that perceive, decide, and act autonomously fileciteturn3file0.
+  * Define agentic AI as systems that perceive, decide, and act autonomously.
   * Present three executive priorities: grow revenue, optimize costs, mitigate risk.
 * **Activity:** Participants select their priority in a poll tool (e.g., Slido).
 
@@ -48,6 +60,7 @@
   1. Open `Resources/prompts/lab1.md`.
   2. Individually draft prompts in ChatGPT (or chosen AI tool) to generate **three actionable recommendations** for your selected priority.
   3. Map each recommendation to a specific metric in `Resources/templates/metric-mapping.xlsx`.
+  * **Instructor Note:** Encourage participants to refer to `Resources/prompts/example-prompts.md` for inspiration.
 * **Facilitation:**
 
   * Circulate to answer questions and demo iterative prompting live on the projector.
@@ -67,6 +80,9 @@
   1. Open `Resources/templates/governance-checklist.md`.
   2. Add compliance or human-in-the-loop notes to your prompt designs.
   3. Draft a 1-page pilot outline: scope, timeline (next 2 weeks), owner, and success metric.
+  * **Instructor Note:** Encourage participants to refer to the example documents:
+    *   [Completed Governance Checklist](Resources/templates/governance-checklist-example.md)
+    *   [Completed Pilot Plan](Resources/plans/pilot-plan-example.md)
 * **Facilitation:**
 
   * Show a sample pilot plan on screen; encourage participants to mirror the format.
@@ -78,6 +94,7 @@
 
   * In poll tool, have participants submit one commitment (e.g. “I will test my AI prompt with my finance team by next Wednesday”).
   * Share resources: GitHub repo, Slack channel #ai4-leaders.
+  * **Instructor Note:** Briefly introduce the optional GitHub challenges from the Participant Guide to encourage deeper engagement with the platform.
   * Thank participants and invite feedback via survey link.
 
 ## Troubleshooting & Tips
@@ -88,5 +105,5 @@
 
 ## Post-Workshop Follow-Up
 
-* Collect pilot outlines via GitHub issues.
+
 * Schedule optional office hours for prompt feedback and governance Q\&A.
