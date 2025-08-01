@@ -29,13 +29,25 @@ If you're curious about how developers manage code, you can set up the repositor
 
 ## Workshop Agenda
 
-| Time          | Module                                                              |
-|---------------|---------------------------------------------------------------------|
-| 09:00 - 09:30 | [Module 1](Module/1-Setting-the-Stage.md): Setting the Stage: The Power of AI Agents |
-| 09:30 - 10:00 | [Module 2](Module/2-Strategy-First.md): Strategy First: Uncovering the Value of AI Agents |
-| 10:00 - 10:10 | Break                                                               |
-| 10:10 - 10:50 | [Module 3](Module/3-The-Leadership-Playbook.md): The Leadership Playbook: Challenges, Risks, and Ethical Boundaries |
-| 10:50 - 11:00 | [Module 4](Module/4-Your-AI-Roadmap.md): Your AI Roadmap: A Call to Action         |
+| Time          | Module & Topic                                                              |
+|---------------|-----------------------------------------------------------------------------|
+| 09:00 - 09:30 | [Module 1: Setting the Stage: The Power of AI Agents](Module/1-Setting-the-Stage.md) |
+| 09:30 - 10:00 | [Module 2: Strategy First: Uncovering the Value of AI Agents](Module/2-Strategy-First.md) |
+| 10:00 - 10:10 | Break                                                                       |
+| 10:10 - 10:50 | [Module 3: The Leadership Playbook: Challenges, Risks, and Ethical Boundaries](Module/3-The-Leadership-Playbook.md) |
+| 10:50 - 11:00 | [Module 4: Your AI Roadmap: A Call to Action](Module/4-Your-AI-Roadmap.md)         |
+
+## Workshop Deliverables
+
+Throughout this workshop, you will create tangible outputs that will help you apply AI concepts to your organization. Here's a breakdown of what you'll accomplish:
+
+| Module | Deliverable | Description | How You'll Use It |
+|---|---|---|---|
+| **Module 1** | AI Taxonomy Worksheet | A completed worksheet categorizing AI examples. | To clarify AI terminology and identify areas of personal interest or concern. |
+| | Top 3 AI Questions/Fears | Your prioritized list of questions or concerns about AI. | To guide discussions and ensure the workshop addresses your key challenges. |
+| **Module 2** | One-Page AI Opportunity Canvas | A concise plan outlining a high-impact AI use-case for your organization. | To identify and prioritize a specific AI initiative you can pursue post-workshop. |
+| **Module 3** | Prompt Notebook | A collection of refined AI prompts and their outputs. | To develop your skills in crafting effective prompts for actionable AI insights. |
+| **Module 4** | AI Roadmap Template | A foundational plan for integrating AI into your organization. | To guide your next steps in developing and implementing AI solutions. |
 
 ## Workshop Activities
 

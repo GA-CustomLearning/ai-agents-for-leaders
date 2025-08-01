@@ -1,6 +1,6 @@
-# AI for Leaders Workshop
+# AI Agents for Leaders Workshop
 
-Welcome to the **AI for Leaders Workshop**—a session designed to help senior leaders and C‑suite executives understand the strategic role of AI agents in business transformation.
+Welcome to the **AI Agents for Leaders Workshop**—a session designed to help senior leaders and C‑suite executives understand the strategic role of AI agents in business transformation.
 
 ## Learning Objectives
 
@@ -12,14 +12,24 @@ By the end of this workshop, you will be able to:
 *   Identify and mitigate challenges, risks, and ethical concerns associated with the deployment of AI agents.
 *   Create a personalized AI roadmap for effective integration in your organization.
 
+## What You'll Accomplish
+
+By actively participating in this workshop, you will:
+
+*   **Demystify AI Agents:** Gain a clear understanding of what AI agents are, how they function, and their strategic importance in modern business.
+*   **Identify Opportunities:** Learn to pinpoint high-impact areas within your organization where AI agents can drive efficiency, streamline processes, and create new value.
+*   **Address Challenges:** Explore common risks, ethical considerations, and integration barriers associated with AI agent deployment, and develop strategies to mitigate them.
+*   **Develop a Roadmap:** Begin crafting a personalized AI roadmap for your organization, outlining actionable steps for effective AI agent integration.
+*   **Practical Insights:** Walk away with practical tools, templates, and case studies to guide your AI initiatives.
+
 ## Workshop Agenda
 
 | Time          | Module                                                              | Topic                                                      |
 |---------------|---------------------------------------------------------------------|------------------------------------------------------------|
-| 09:00 - 09:30 | [Module 1](Module/01.md): Setting the Stage: The Power of AI Agents | Introduction, Stories of Impact                            |
-| 09:30 - 10:00 | [Module 2](Module/02.md): Strategy First: Uncovering the Value of AI Agents | Strategic Framework, Business Simulation, Vision Alignment |
+| 09:00 - 09:30 | [Module 1](Module/1-Setting-the-Stage.md): Setting the Stage: The Power of AI Agents | Introduction, Stories of Impact                            |
+| 09:30 - 10:00 | [Module 2](Module/2-Strategy-First.md): Strategy First: Uncovering the Value of AI Agents | Strategic Framework, Business Simulation, Vision Alignment |
 | 10:00 - 10:10 | Break                                                               | Break                                                      |
-| 10:10 - 10:50 | [Module 3](Module/03.md): The Leadership Playbook: Challenges, Risks, and Ethical Boundaries | Group Discussion, Ethics in Action, Governance Models      |
+| 10:10 - 10:50 | [Module 3](Module/3-The-Leadership-Playbook.md): The Leadership Playbook: Challenges, Risks, and Ethical Boundaries | Group Discussion, Ethics in Action, Governance Models      |
 | 10:50 - 11:00 | [Module 4](Module/4-Your-AI-Roadmap.md): Your AI Roadmap: A Call to Action         | Guided Planning, Takeaway Toolkit                          |
 
 ## How to Use
