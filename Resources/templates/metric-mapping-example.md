@@ -1,1 +1,0 @@
-This is a placeholder for a completed example of the metric mapping template. In a real scenario, this would be a filled-out Excel spreadsheet showing how recommendations map to specific metrics and their expected impact.

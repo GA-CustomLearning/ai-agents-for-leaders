@@ -1,46 +1,26 @@
-# AI Agents for Leaders Workshop
+# AI for Leaders Workshop
 
-Welcome to the **AI Agents for Leaders Workshop**—a 2‑hour, hands‑on session designed to help senior leaders and C‑suite executives prototype and pilot autonomous AI agents for strategic impact.
+Welcome to the **AI for Leaders Workshop**—a session designed to help senior leaders and C‑suite executives understand the strategic role of AI agents in business transformation.
 
-## Workshop Overview
+## Learning Objectives
 
-This workshop is organized into six modular segments, each with clear objectives, materials, and step‑by‑step instructions. You’ll apply AI tools directly to your own organizational challenges, and leave with a concrete pilot plan.
+By the end of this workshop, you will be able to:
 
-**Repository Structure**
+*   Understand the strategic role of AI agents in business transformation.
+*   Discover how AI agents can enhance business processes, streamline operations, and drive greater efficiency.
+*   Develop a vision for integrating AI agents into organizational decision-making.
+*   Identify and mitigate challenges, risks, and ethical concerns associated with the deployment of AI agents.
+*   Create a personalized AI roadmap for effective integration in your organization.
 
-```
-ai4-agentic-workshop/
-├─ README.md                      ← This overview file
-├─ PARTICIPANT_GUIDE.md           ← Participant Guide
-├─ INSTRUCTOR_GUIDE.md            ← Instructor Guide
-├─ Module/
-│   ├─ 01.md
-│   ├─ 02.md
-│   ├─ 03.md
-│   ├─ 04.md
-│   ├─ 05.md
-│   └─ 06.md
-├─ Resources/
-│   ├─ plans/
-│   │   └─ pilot-plan.md
-│   ├─ prompts/
-│   │   └─ lab1.md
-│   └─ templates/
-│       ├─ governance-checklist.md
-│       ├─ metric-mapping-template.xlsx
-│       └─ 🛡️ AI Agent Governance One-Pager.pdf
-```
+## Workshop Agenda
 
-## Schedule
-
-| Time            | Module                                    | Activity                                      |
-| --------------- | ----------------------------------------- | --------------------------------------------- |
-| **0–30 min**    | [Module 01](Module/01.md) | Introductions and goal setting |
-| **30–45 min**   | [Module 02](Module/02.md)     | Agentic AI overview & priority selection          |
-| **45–90 min**   | [Module 03](Module/03.md) | Hands‑on prompt crafting & metric mapping     |
-| **90–95 min**   | [Module 04](Module/04.md)               | Highlight standout individual insights       |
-| **95–110 min**  | [Module 05](Module/05.md)       | Governance guardrails & pilot plan drafting   |
-| **110–120 min** | [Module 06](Module/06.md)                     | Final commitments, resources, next steps      |
+| Time          | Module                                                              | Topic                                                      |
+|---------------|---------------------------------------------------------------------|------------------------------------------------------------|
+| 09:00 - 09:30 | [Module 1](Module/01.md): Setting the Stage: The Power of AI Agents | Introduction, Stories of Impact                            |
+| 09:30 - 10:00 | [Module 2](Module/02.md): Strategy First: Uncovering the Value of AI Agents | Strategic Framework, Business Simulation, Vision Alignment |
+| 10:00 - 10:10 | Break                                                               | Break                                                      |
+| 10:10 - 10:50 | [Module 3](Module/03.md): The Leadership Playbook: Challenges, Risks, and Ethical Boundaries | Group Discussion, Ethics in Action, Governance Models      |
+| 10:50 - 11:00 | [Module 4](Module/4-Your-AI-Roadmap.md): Your AI Roadmap: A Call to Action         | Guided Planning, Takeaway Toolkit                          |
 
 ## How to Use
 
